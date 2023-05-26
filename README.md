@@ -1,2 +1,2 @@
-# robotic-leg
+# robot-leg
 Tendon Driven Robot Leg
