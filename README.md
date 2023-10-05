@@ -1,2 +1,2 @@
 # robot-leg
-Tendon Driven Robot Leg
+All the code and STL files used to create the project
